@@ -3,7 +3,6 @@
 
 Habilidades: ANGULAR / PHP / JAVASCRIPT / SPRING BOOT / JAVA / LARAVEL / PYTHON
 
-- 🌱 Estoy aprendiendo NodeJS / MongoDB 
 - 👯 Quiero colaborar con proyectos grandes, medianos o pequeños, que me permitan ampliar mi experiencia y mejorar las practicas de programación. 
 
 
