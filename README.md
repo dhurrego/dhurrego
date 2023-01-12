@@ -1,7 +1,7 @@
 ### Hola 👋, Coders!
 #### Yo soy Deivid Urrego, desarrollador de software fullstack
 
-Habilidades: ANGULAR / PHP / JAVASCRIPT / SPRING BOOT / JAVA / LARAVEL / PYTHON
+Habilidades: ANGULAR / JAVA(SPRING BOOT MVC/WEBFLUX) / JAVASCRIPT / AZURE CLOUD / DOCKER / KUBERNETES/ JENKINS
 
 - 👯 Quiero colaborar con proyectos grandes, medianos o pequeños, que me permitan ampliar mi experiencia y mejorar las practicas de programación. 
 
